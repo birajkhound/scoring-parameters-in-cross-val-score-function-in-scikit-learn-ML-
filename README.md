@@ -1,5 +1,3 @@
-# scoring-parameters-in-cross-val-score-function-in-scikit-learn-ML-
-cross val score is a function in scikit learn to evaluate ML models.
 
 cross\_val\_score is a function from **scikit-learn** used to evaluate the performance of a machine learning model using cross-validation.
 
