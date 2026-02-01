@@ -1,5 +1,5 @@
 
-cross\_val\_score is a function from **scikit-learn** ([https://www.ncbi.nlm.nih.gov/](https://scikit-learn.org/0.18/modules/generated/sklearn.model_selection.cross_val_score.html)) used to evaluate the performance of a machine learning model using cross-validation.
+cross\_val\_score is a function from **scikit-learn** (https://scikit-learn.org/0.18/modules/generated/sklearn.model_selection.cross_val_score.html) used to evaluate the performance of a machine learning model using cross-validation.
 
 
 
